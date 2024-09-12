@@ -1,1 +1,1 @@
-# IT3F-GROUP7-EXERCISE3
+Good day! This is a test file from Group 7 of BSIT - 3F
